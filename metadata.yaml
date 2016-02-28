@@ -1,0 +1,22 @@
+_repo: Let-s-Collect-Rocks-and-Shells_4768
+creator:
+  author:
+    agent_name: Shell Union Oil Corporation
+    gutenberg_agent_id: '1573'
+    url: http://www.gutenberg.org/2009/agents/1573
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Shells -- Collectors and collecting -- Juvenile literature'
+- !lcsh 'Rocks -- Collection and preservation -- Juvenile literature'
+- !lcsh 'Shells -- Juvenile literature'
+title: Let's Collect Rocks and Shells
+url: http://www.gutenberg.org/ebooks/4768
