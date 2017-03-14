@@ -1,11 +1,16 @@
 _repo: Let-s-Collect-Rocks-and-Shells_4768
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shell Union Oil Corporation
     gutenberg_agent_id: '1573'
     url: http://www.gutenberg.org/2009/agents/1573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4768#Let-s-Collect-Rocks-and-Shells
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
