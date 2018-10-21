@@ -1,5 +1,5 @@
 _repo: Let-s-Collect-Rocks-and-Shells_4768
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ subjects:
 - !lcsh 'Shells -- Collectors and collecting -- Juvenile literature'
 - !lcsh 'Rocks -- Collection and preservation -- Juvenile literature'
 - !lcsh 'Shells -- Juvenile literature'
+- GITenberg
 title: Let's Collect Rocks and Shells
 url: http://www.gutenberg.org/ebooks/4768
